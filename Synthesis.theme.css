@@ -25,7 +25,7 @@ GitHub: https://github.com/Saltssaumure/synthesis-discord-theme
 Join Salt's Discord Themes server! https://discord.gg/uy8nKQVatp
 */
 
-@import url("https://saltssaumure.github.io/synthesis-discord-theme/synth.min.css");
+@import url("https://mastermercury.github.io/synthesis-discord-theme/synth.min.css");
 
 :root {
     --background-image: url(https://external-preview.redd.it/GOkP8onbuyjGmN9Rc8Que5mw21CdSw6OuXpAKUuE6-4.jpg?width=1080&crop=smart&auto=webp&v=enabled&s=7de7fb0ac580ecf80d226bde94a5fe222fc4eea5); /* Background image. Values: any image link encased in url(). See GitHub readme for recommended images! */
